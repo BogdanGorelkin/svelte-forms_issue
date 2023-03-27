@@ -1,3 +1,5 @@
+https://github.com/chainlist/svelte-forms/issues/75
+
 **Validator _email_ doesn't work**
 
 [See example of this issue with solution](https://github.com/BogdanGorelkin/svelte-forms_issue/blob/main/src/App.svelte)
